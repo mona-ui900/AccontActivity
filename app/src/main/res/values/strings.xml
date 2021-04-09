@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AccountActivity</string>
+    <string name="hello_blank_fragment">account_fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
